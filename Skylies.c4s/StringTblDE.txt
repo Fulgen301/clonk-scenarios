@@ -1,0 +1,17 @@
+TxtHost=%s stellt die Relaunchs ein.
+TxtRE+=Relaunchs erhöhen.
+TxtRE-=Relaunchs vermindern.
+TxtRESet=Es sind jetzt <c 00ff00>%d</c> Relaunchs eingestellt.
+TxtRE=%s hat noch <c 00ff00>%d</c> Relaunchs.
+Msg1=Zaplutscher
+Msg2=Vogelkopf
+Msg3=Monsterfresse
+Msg4=Terabeißer
+Msg5=Wipfschredder
+Msg6=Flint-Tester
+JoinPlr=%s ist den Spiel als Spieler beigetreten.
+JoinCom=%s ist den Spiel als Computer beigetreten.
+TxtEL=%s muss das Spiel verlassen.
+TxtDEL=%s hat das Spiel verlassen.
+TxtHC1=<System> %s will den Hardcoremodus. %d/%d Spieler wollen Hardcore. Gebe <i>/hardcore</i> ein, um für den Hardcoremodus zu stimmen.
+TxtHC2=<System> Alle wollen Hardcore spielen. Hardcoremodus wird initialisiert...

@@ -1,0 +1,7 @@
+Medals=Deine Medaillen
+ResetMessage=%s hat seine Medaillen zurückgesetzt.
+Reward=%s hat soeben die Medaille <c fabe08>%s</c> verdient.
+Nothing=Nix
+
+PostMedal=Medaillen Posten
+Posts=["%s würde gerne mit seinem Medaillen angeben können","%s will euch sein Häufchen Medaillen zeigen","%s öffnet sein Medaillenkästchen","Schaut mal, wie viele Medaillen %s schon gesammelt hat","Wer ist der Pro? %s ist der Pro"]

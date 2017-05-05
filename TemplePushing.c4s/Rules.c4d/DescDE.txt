@@ -1,0 +1,1 @@
+Die Regelobjekte modifizieren das Spielerlebnis, indem sie Handicaps oder Hilfen festlegen.

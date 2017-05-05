@@ -1,0 +1,1 @@
+Gibt den Gebäuden in der Nähe für 30 Sekunden Strom.

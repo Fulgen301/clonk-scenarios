@@ -1,0 +1,1 @@
+Makes clonks wear anoraks if the festive mode is enabled.

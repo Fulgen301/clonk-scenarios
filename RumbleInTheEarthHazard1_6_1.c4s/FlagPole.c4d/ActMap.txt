@@ -1,0 +1,7 @@
+[Action]
+Name=SwapFlag
+Length=1
+Delay=1
+FacetBase=1
+NextAction=SwapFlag
+StartCall=Swapping

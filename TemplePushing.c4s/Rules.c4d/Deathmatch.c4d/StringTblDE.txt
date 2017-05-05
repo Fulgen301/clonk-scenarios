@@ -1,0 +1,2 @@
+InfoMessage=Das Team, das zuerst %d Gegner tötet, gewinnt.
+Win=Sieg

@@ -1,0 +1,44 @@
+/*-- Für Domination --*/
+
+#strict 2
+/*#appendto BAS7
+
+//Geht wohl nicht anders! :S
+local iLastBase;
+
+func Plopp() //Debugzeugs
+{
+  if(WildcardMatch(Format("%i",GetID(this)),"BAS*")) return false;
+  if(GetDefCoreVal("Base","DefCore",GetID(this)))
+    Schedule("Message(\"%d\",this,LocalN(\"iLastBase\",this))",1,2**31-1,this);
+}
+
+func Initialize()
+{
+  Plopp();
+  iLastBase = -1;
+  return _inherited(...);
+}
+
+func Collection2(object pTarget)
+{
+  //Das Objekt ist eine Flagge
+  if(GetID(pTarget) == FLAG)
+    //Das Gebäude ist keine Basis, kann aber eine sein
+    if(GetBase(this) == -1 && GetDefCoreVal("Base","DefCore",GetID(this)))
+    {
+      iLastBase = GetOwner(pTarget);
+      //Der Vorbesitzer war ein Feind
+      if(Hostile(GetOwner(pTarget),iLastBase))
+        //Und es ist wirklich der Besitzer, der die Flagge reinlegt
+        if(GetController(pTarget) == GetOwner(pTarget))
+        {
+          var pMedal = FindObject(DM0D);
+          if(pMedal)
+            Reward(pMedal,GetOwner(pTarget));
+        }
+    }
+  return _inherited(...);
+}
+
+*/

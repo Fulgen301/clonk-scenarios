@@ -1,0 +1,1 @@
+Searches objects with a specific speed and hurls them back to where they came from.

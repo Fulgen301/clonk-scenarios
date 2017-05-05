@@ -1,0 +1,4 @@
+Attacks enemys in the area with lightning strikes.
+
+Damage: 5-7
+Range:  130px

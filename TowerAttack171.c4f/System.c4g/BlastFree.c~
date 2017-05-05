@@ -1,0 +1,10 @@
+/*-- Knochen ausfaden --*/
+
+#strict
+#appendto BONE
+#appendto ROCK
+
+func Initialize() {
+  Schedule("FadeOut(0,2)",2800,0,this);
+  return(_inherited());
+}

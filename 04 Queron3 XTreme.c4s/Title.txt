@@ -1,0 +1,2 @@
+DE:Queron 300 <c ffff00> X-TREME</c> <c ff0b1a>Torpedo</c> <c ffff00>Edition 1.2:</c> <c 1aff0b>Deluxe Edit </c>
+US:Queron 300 <c ffff00> X-TREME</c> <c ff0b1a>Torpedo</c> <c ffff00>Edition 1.2:</c> <c 1aff0b>Deluxe Edit </c>

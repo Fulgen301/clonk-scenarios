@@ -1,0 +1,4 @@
+Damages all enemies.
+
+Range:       100px
+Healingrate: 0.8 LP per second.

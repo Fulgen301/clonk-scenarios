@@ -1,0 +1,7 @@
+[Action]
+Name=Exist
+Procedure=NONE
+Facet=0,0,1500,1000
+Length=1
+Delay=1
+NextAction=Hold

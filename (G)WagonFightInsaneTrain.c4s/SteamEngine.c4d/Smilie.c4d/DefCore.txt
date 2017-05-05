@@ -1,0 +1,15 @@
+[DefCore]
+id=QSMI
+Name=Sickerr
+Version=4,9,5
+Category=4
+Width=20
+Height=20
+Offset=-10,-10
+Value=10
+Mass=10
+Components=_NEW=1;
+Picture=0,0,20,20
+Timer=1
+TimerCall=Check
+ 

@@ -1,0 +1,21 @@
+TeamOne=Lldhyr
+TeamTwo=Phephr
+TeamThree=Ghardûr
+TeamFour=Qul'tar
+MsgRelaunch=Du hast noch <c 00ff00>%d</c> Relaunches.
+MsgOneRelaunch=Du hast nur noch <c ffff00>einen</c> Relaunch.
+MsgLastRelaunch=Das war dein <c ff0000>letzter</c> Relaunch.
+Death=<i><c ff0000>Tot</c></i>
+Load=Landschaft wird geladen...
+Kills=Kills
+WinScore=Ziel
+MsgDeathmatchWin=<c %x>Team %s</c> erringt den Sieg.
+Win=Sieg
+Rematch=Startet eine weitere Runde Tempelschubsen.
+
+# GameComment-Strings
+LobbyComment= <i>Es wird noch eingestellt…<i>
+SuddenDeath=mit <c ff0000>Sudden Death</c>
+DM=<c ff0000>DM</c> mit %d Punkten
+LMS=<c 80>LMS</c> mit %d Relaunches
+GameComment=<c ffffc0>Tempel</c>: %s| <c ffffc0>Modus</c>: %s%s| <c ffffc0>Ziel</c>: %s| <c ffffc0>Spielstand</c>: %s

@@ -1,0 +1,7 @@
+NoRelaunch=%s hat alle Relaunchs verbraucht.
+Relaunch=%s hat noch %d Relaunchs übrig.
+NoRelaunchWithKiller=%s hat alle Relaunchs verbraucht. (Getötet von %s)
+RelaunchWithKiller=%s hat noch %d Relaunchs übrig. (Getötet von %s)
+
+restart=Nochmal! \\o/
+restartdesc=Gleich nochmal spielen!

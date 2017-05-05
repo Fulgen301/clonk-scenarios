@@ -1,0 +1,4 @@
+You=dein
+Part1=[" Clonk", "e Mutter", " Hauswipf","e Spielerdatei"," Haus"," Team","e Existenz"," Charakter"]
+Part2=["ist doof","stinkt nach Wipfkot","ist verbuggt","hasst dich","suckt","würde dich am liebsten töten","isst Popel","ist schlimmer als Java","ist unerträglich"]
+Collect=Lass mich in Ruhe, %s. Du stinkst!

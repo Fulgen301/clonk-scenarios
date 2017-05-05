@@ -1,0 +1,21 @@
+TeamOne=Lldhyr
+TeamTwo=Phephr
+TeamThree=Ghardûr
+TeamFour=Qul'tar
+MsgRelaunch=You have <c 00ff00>%d</c> relaunches remaining.
+MsgOneRelaunch=You only have <c ffff00>one</c> relaunch remaining.
+MsgLastRelaunch=That was your <c ff0000>last</c> relaunch.
+Death=<i><c ff0000>Out</c></i>
+Load=Loading landscape...
+Kills=Kills
+WinScore=Goal
+MsgDeathmatchWin=<c %x>Team %s</c> wins the match.
+Win=Win
+Rematch=Starts another round of Temple Pushing.
+
+# GameComment-Strings
+LobbyComment= <i>Settings are still being chosen…</i>
+SuddenDeath=with <c ff0000>sudden death</c>
+DM=<c ff0000>DM</c> with %d points
+LMS=<c 80>LMS</c> with %d relaunches
+GameComment=<c ffffc0>Temple</c>: %s| <c ffffc0>Mode</c>: %s%s| <c ffffc0>Goal</c>: %s| <c ffffc0>Score</c>: %s

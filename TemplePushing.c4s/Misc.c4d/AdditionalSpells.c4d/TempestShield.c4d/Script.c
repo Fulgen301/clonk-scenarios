@@ -1,0 +1,3 @@
+/*-- Platzhalter --*/
+
+#strict 2

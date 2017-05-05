@@ -1,0 +1,15 @@
+Intro1=Endlich! Wir haben das Gold erreicht!
+Intro2=Huch, was rumpelt denn da?
+Intro3=Oh Gott, es leckt Lavasaeure! Schnell, sucht den dicksten Goldklumpen und dann nichts wie raus hier!
+
+Goal1=Spielziel: Kommt lebend aus der Mine!|Optionales Ziel: Bringt die Statue mit nach draussen.
+Goal2=Ihr habt es lebend aus der Mine geschafft!
+
+Elev1=Verdammt. Das Erdbeben hat den Fahrstuhl zerstoert. Wir muessen den Schacht hochklettern.
+Plans=Hier sind einige nuetrzliche Bauplaene. Vielleicht koennen wir auch weitere Gebauede erforschen, um den Weg nach oben frei zu bauen.
+Elev2=Nach oben fuehrt ein weiterer Fahrstuhlschaft, aber der ist wieder verschuettet. Wir muessen uns anders nach oben bauen.
+LastLavaLake=Oh nein, Granit verstopft den Schacht. Entweder wir sprengen uns durch oder wir lassen irgendwie die Lava ab.
+Blimp=Geschafft! Wenn wir das Luftschiff nach oben rechts fliegen, sind wir in Sicherheit. Am Besten nehmen wir noch die Goldstatue mit.
+
+End=Endlich. Wir sind lebend hier heraus gekommen. Jetzt bloss nie wieder Bergbau!
+EndBonus=Und mit dieser Goldstatue bauen wir unser neues Leben auf einer Himmelsinsel auf.

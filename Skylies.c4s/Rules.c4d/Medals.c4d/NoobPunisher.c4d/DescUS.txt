@@ -1,0 +1,2 @@
+Kill at least 6 Clonks from players they have less than the half of your Score.
+The score difference between the two players must be over 500 Points.

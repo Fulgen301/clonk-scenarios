@@ -1,0 +1,7 @@
+[Material]
+Name=BackRedAcid
+Color=190,0,0,200,0,0,210
+Shape=0
+Density=0
+Placement=10
+TextureOverlay=Liquid

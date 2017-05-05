@@ -1,0 +1,1 @@
+Macht aus einem minderwertigen Objekt ein höherwertiges. Z.B. aus Stein Gold.

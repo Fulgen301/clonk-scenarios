@@ -1,0 +1,7 @@
+[Material]
+Name=SkyCrystal
+Color=255,255,255
+Alpha=125,125,125,0,0,0
+Shape=0
+Density=50
+TextureOverlay=Structure

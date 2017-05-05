@@ -1,0 +1,67 @@
+==== SKYM_Medals0 ====
+
+ 0 - AS_M - Assault
+ 1 - BH_M - Bounty Hunter
+ 2 - BB_M - Bridge Builder
+ 3 - H1_M - Hole in one
+ 4 - SA_M - Sandmann
+ 5 - WF_M - What the Fish!?
+ 6 - FM_M - Follow Me
+ 7 - WP_M - Who pulled the plug?
+ 8 - IS_M - I can see my house from here!
+ 9 - SW_M - Seriously, What!?
+10 - CH_M - Critical Hit!
+11 - DL_M - Dat Loop!
+12 - MS_M - Minesweeper
+13 - MR_M - Mush my room
+14 - SH_M - Sleepyhead
+15 - SA_M - Still Alive
+16 - CS_M - Crystal Slurper
+17 - LR_M - Let's Rock!
+18 - SI_M - Shake it, baby!
+19 - S2_M - Sven2
+20 - WD_M - Wood of Doom!
+21 - EF_M - Epic Fail!
+22 - RM_M - Rage mode
+23 - MF_M - Monsterfresse
+24 - VK_M - Vogelkopf
+25 - ZL_M - Zaplutscher
+26 - TB_M - Terabeiﬂer
+27 - PP_M - Ping Pong
+28 - IM_M - It's Magic!
+29 - GP_M - Get The Pro
+30 - NP_M - Noob Punisher
+
+
+==== SKYM_Medals1 ====
+ 0 - HC_M - Holy Crap!
+ 1 - FC_M - What the Fish ...and Chips!?
+ 2 - MA_M - Magic Army
+ 3 - EH_M - Early Hoppers
+ 4 - TY_M - Did you see the Trailer?
+ 5 - HD_M - Handicraft
+ 6 - RE_M - Repercussion
+ 7 - SP_M - Stone,Scissors,Paper
+ 8 - NY_M - Nyan Wipf
+ 9 - TP_M - Test Pilot
+10 - BF_M - Basement Monster
+11 - CY_M - Crikey!
+12 - UB_M - Unbelievable
+13 - S3_M - Sven3
+14 - UR_M - Uhm... Reflection!?
+15 -
+16 -
+17 -
+18 -
+19 -
+20 -
+21 -
+22 -
+23 -
+24 -
+25 -
+26 -
+27 -
+28 -
+29 -
+30 -

@@ -1,0 +1,17 @@
+TxtHost=%s poses the Relaunches.
+TxtRE+=Increase Relaunchs.
+TxtRE-=Decrease Relaunchs.
+TxtRESet=The relaunchs count is <c 00ff00>%d</c>.
+TxtRE=%s has only <c 00ff00>%d</c> Relaunchs.
+Msg1=Zapsucker
+Msg2=Birdhead
+Msg3=Monstermouth
+Msg4=Teraeater
+Msg5=Wipfshredder
+Msg6=Flint-Tester
+JoinPlr=%s has joint the game as Player.
+JoinCom=%s has joint the game as Computer.
+TxtEL=%s has to leave the game.
+TxtDEL=%s left the game.
+TxtHC1=<System> %s agrees Hardcoremod. %d/%d players agrees Hardcoremod. Type <i>/hardcore</i> to agree Hardcoremod.
+TxtHC2=<System> All Players wanna play Hardcoremod. Initialize Hardcoremod...

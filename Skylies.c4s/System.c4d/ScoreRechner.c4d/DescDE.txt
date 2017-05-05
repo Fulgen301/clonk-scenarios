@@ -1,0 +1,3 @@
+Rechnet Punktezahlen aus und speichert diese in globalen Variablen pro Spieler.
+
+Sie werden als "GeckoScoreObject" im Spieler gespeichert und können bei jeden Spiel verbessert werden.

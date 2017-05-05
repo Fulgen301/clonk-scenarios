@@ -1,0 +1,11 @@
+[DefCore]
+id=SL0D
+Name=Skyland
+Version=4,9,5
+Category=C4D_StaticBack|C4D_Background|C4D_Environment|C4D_Parallax
+Width=120
+Height=60
+Offset=-50,-30
+
+StretchGrowth=1
+Rotate=1

@@ -1,0 +1,2 @@
+TeamLeft=<c ff0000>Links</c>
+TeamRight=<c 0000ff>Rechts</c>

@@ -1,0 +1,2 @@
+DE:Seuchenaltar
+US:Plaguealtar

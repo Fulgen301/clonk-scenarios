@@ -1,0 +1,1 @@
+Shows collected objects above a clonk to his team.

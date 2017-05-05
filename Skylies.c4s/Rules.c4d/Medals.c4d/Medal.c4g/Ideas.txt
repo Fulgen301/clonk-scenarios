@@ -1,0 +1,56 @@
+== That was close! ==
+Töte einen feindlichen Clonk, der direkt neben einem abgekämpften, verbündeten Clonk steht
+
+== Airpedo ==
+Töte einen Gegner mit einem Torpedo, ohne Ihn im Wasser gestartet zu haben. 
+
+== Kamikaze ==
+Bringe dich und einen Gegnerischen Clonk gleichzeitig um
+
+== Zaplutscher ==
+Töte einen Gegnerischen Clonk mit Zaps.
+
+== Monsterfresse ==
+Hetze ein Monster auf deine Gegner.
+
+== Terabeißer ==
+Töte einen Gegnerischen Clonk mit einem Teraflint durch Objekttreffer
+
+== Sky Mayhem ==
+Springe mit dem Wind-Zauber inklusive mindestens 3 Gegenstände zu einer anderen Insel und überlebe dies
+
+== Triathlon ==
+Erfülle 3 medaillenwürdige Aufgaben in 10 Sekunden.
+
+== Trojan Tower ==
+Bewege deinen mobilen Geschützturm auf eine andere Insel
+
+== Calamity ==
+Lösche die Insel eines anderen Teams völlig aus
+
+== Last Stand ==
+Überlebe 10 Minuten mit einem einzigen Clonk und ohne Flagge
+
+== Adding Insult To Injury ==
+Töte jemanden, während er von einem Beleidigungsstein genervt wird
+
+== Bullet Hell ==
+Überlebe ungeschützt eine Salve von 20 Objekten
+
+== Zombie Apocalypse ==
+Erzeuge 10 Untote
+
+== Religious Duty ==
+Baue einen Geröllgötzen (Geröllgötzen kann man erzeugen, indem man 3 beim Objektherbeizaubern zufällig erhaltene Gegenstände kombiniert, und sie schlagen zufällig Kram zurück)
+
+== Geologist ==
+Sammle Erde, Lehm, Erz, Kristall, Gold, Sand und Asche in einem Gebäude
+
+== Pyromania ==
+Zünde 10 Gebäude in einer Runde an
+
+== Omelette ==
+Binde einen Pilz an ein Vogelei
+
+== Stormy weather ==
+Töte einen Clonk mit einer Salve aus Objekten, die durch die Wind+Pfeil - Kombo herumgeschleudert werden.

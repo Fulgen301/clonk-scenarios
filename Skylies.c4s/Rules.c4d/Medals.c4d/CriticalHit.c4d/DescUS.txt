@@ -1,0 +1,1 @@
+Deal 40 hitpoints worth of damage with a single hit.

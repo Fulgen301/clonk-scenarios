@@ -1,0 +1,15 @@
+Missile=Raketen
+HMissile=Lenkraketen
+MissileX=Splitterraketen
+SMissile=Hypergeschwindigkeitsraketen
+SlMissile=Schleimraketen
+
+KLASUpgradeDesc=Rüstet die Raketen mit einem automatischen Zielverfolgungssystem aus.
+
+KLASUpgraded=Raketenwerfer mit automatischen|Zielverfolgungssystem ausgerüstet.
+
+KRFLUpgradeDesc=Der Raketenwerfer kann nach dem Upgrade auch Splitterraketen verschießen.
+KRFLUpgraded=Nun können auch Splitterraketen verschossen werden.
+
+KSLMUpgradeDesc=Erweitert den Raketenwerfer um Schleimraketen
+KSLMUpgraded=Raketenwerfer kann jetzt Schleimraketen verschießen.

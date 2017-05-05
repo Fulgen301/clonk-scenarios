@@ -1,0 +1,1 @@
+Makes an objet of higher value out of an objekt with less value. For example gold out of rock.

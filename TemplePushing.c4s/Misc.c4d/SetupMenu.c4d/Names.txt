@@ -1,0 +1,2 @@
+DE:Einstellungsmenü
+US:Setup Menu

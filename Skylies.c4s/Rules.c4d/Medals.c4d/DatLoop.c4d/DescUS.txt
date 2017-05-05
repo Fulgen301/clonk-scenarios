@@ -1,0 +1,1 @@
+Shoot a small Balloon into the orbit. The balloon has to turn 30 times around the landscape.

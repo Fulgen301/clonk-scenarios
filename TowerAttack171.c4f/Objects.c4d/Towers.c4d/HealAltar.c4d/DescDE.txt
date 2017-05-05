@@ -1,0 +1,4 @@
+Heilt verbündete Einheiten in der Nähe
+
+Reichweite:   100px
+Heilungsrate: 0.6 LP pro Sekunde

@@ -1,0 +1,16 @@
+[Particle]
+Name=MaterialParticle2
+MaxCount=3500
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Die
+Face=0,0,28,43,-15,-5
+Repeats=1
+GravityAcc=0
+RByV=1
+Delay=0
+VertexCount=1
+AlphaFade=4
+Additive=1
+Attach=1

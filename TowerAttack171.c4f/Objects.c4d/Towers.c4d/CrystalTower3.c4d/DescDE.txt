@@ -1,0 +1,5 @@
+Greift selbstständig Gegner in der Umgebung mit Blitzen an.
+
+Schaden:    5-10
+Reichweite: 200px
+Angriffsgeschwindigkeit: 0.5 Angriffe pro Sekunde

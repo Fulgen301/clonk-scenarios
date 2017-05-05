@@ -1,0 +1,8 @@
+[Material]
+Name=DarkBrick
+Color=62,50,38,62,60,40,86,72,56
+Shape=0
+Density=50
+Placement=60
+TextureOverlay=Brick
+OverlayType=1

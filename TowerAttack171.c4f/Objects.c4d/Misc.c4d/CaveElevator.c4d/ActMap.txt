@@ -1,0 +1,13 @@
+[Action]
+Name=LiftCase
+Procedure=FLOAT
+Facet=1,17,2,3,11,0
+FacetBase=1
+FacetTargetStretch=1
+NextAction=LiftCase
+
+[Action]
+Name=Lift
+Procedure=FLOAT
+FacetBase=1
+NextAction=Lift

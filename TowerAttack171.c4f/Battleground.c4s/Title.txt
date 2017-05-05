@@ -1,0 +1,2 @@
+DE:Schlachtfeld (Tower-Attack 1.7)
+US:Battleground (Tower-Attack 1.7)

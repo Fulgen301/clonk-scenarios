@@ -1,0 +1,4 @@
+Schadet allen feindlichen Einheiten in der Nähe
+
+Reichweite:   100px
+Schaden:      0.8 pro Sekunde

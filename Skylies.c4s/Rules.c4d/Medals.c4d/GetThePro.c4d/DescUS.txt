@@ -1,0 +1,2 @@
+Kill a clonk of a player wo has more than the double of your score.
+The score difference between the two players must be over 500 Points.

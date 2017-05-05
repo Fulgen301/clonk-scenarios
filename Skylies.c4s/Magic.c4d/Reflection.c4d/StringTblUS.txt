@@ -1,0 +1,1 @@
+TxtSlow=There's no fast object.

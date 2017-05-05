@@ -1,0 +1,2 @@
+SpellInfo=The clonk makes more damage while fighting.
+Activate=Pleaguefist now|available for clonk-to-clonk fight.

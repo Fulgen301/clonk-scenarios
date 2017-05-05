@@ -1,0 +1,3 @@
+Beschiesst Gegner mit giftigen Pfeilen.
+
+Reichweite: 500px (100px)

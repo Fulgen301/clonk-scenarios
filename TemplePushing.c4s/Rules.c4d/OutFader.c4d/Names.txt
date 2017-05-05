@@ -1,0 +1,2 @@
+DE:Keine herumliegenden Gegenstände
+US:No useless items

@@ -1,0 +1,2 @@
+DE:Wagon Fight <c ffd700>Gold</c> v1.0
+US:Wagon Fight <c ffd700>Gold</c> v1.0

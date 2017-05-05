@@ -1,0 +1,7 @@
+[Material]
+Name=SkyCrystalWall
+Color=255,255,255
+Alpha=155,155,155,0,0,0
+Shape=0
+Density=0
+TextureOverlay=Structure

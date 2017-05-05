@@ -1,0 +1,2 @@
+DE:TowerAttack-Regel
+US:TowerAttack-Rule

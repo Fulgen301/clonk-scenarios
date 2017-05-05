@@ -1,0 +1,15 @@
+MsgTimeToRelaunch=Noch %d Clonksekunden bis zum Beitritt!
+MsgGo=Und ab ins Getümmel!!
+MsgPlusKill=+1 Kill
+MsgKill=%s hat %s kaltgemacht.
+MsgKill2=Wegen %s ist %s gestorben. Wie fies!
+MsgKill3=%s hat %s um die Ecke gebracht.
+MsgTeamkill=%s hat aus Versehen seinen Teamkumpel %s umgebracht.
+MsgTeamkill2=Mangelnde Organisation führte dazu, dass %s seinen Teamkameraden %s umgelegt hat.
+MsgTeamkill3=%s versteht sich nicht so gut mit %s, obwohl der im gleichen Team ist.
+MsgSuicide=%s macht Selbstmord.
+MsgSuicide2=%s: Operation 'cooler Abgang' gescheitert!
+MsgSuicide3=%s war ja schon lange suizidgefährdet, aber jetzt das!
+MsgDeath=%s ist unter misteriösen Umständen gestorben.
+MsgDeath2=%s ist an Herzinfarkt gestorben.
+MsgDeath3=%s = tot!

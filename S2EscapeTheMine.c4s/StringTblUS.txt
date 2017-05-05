@@ -1,0 +1,15 @@
+Intro1=Finally! We have reached the gold.
+Intro2=Huh, what's up with the rumbling?
+Intro3=Oh god, it's leaking acid lava! Quick, grab the biggest chunk of gold and get out of here.
+
+Goal1=Goal: Escape the mine alive!|Optional goal: Bring the gold statue outside with you.
+Goal2=You made it out of the mine alive.
+
+Elev1=Damn, the earthquake has destroyed the elevator. We will have to climb up the shaft.
+Plans=Here is a useful plan. Maybe we can research some other structures to get out of the mine.
+Elev2=There's another elevator to get up, but it also got blocked by the earthquake. We need to make it out of the mine by some other means.
+LastLavaLake=Oh no, granite is blocking the shaft. Either we need to blast through or reroute the lava.
+Blimp=We made it! Now let's fly the blimp to the top right to finish this. We may also take a gold statue with us.
+
+End=Finally we got out of this mess. No more mining!
+EndBonus=Using this gold statue, we can start a new life on a sky island.

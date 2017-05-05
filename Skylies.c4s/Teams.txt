@@ -1,0 +1,27 @@
+[Teams]
+TeamColors=1
+
+
+	[Team]
+	id=1
+	Name=$Msg1$
+	Color=15060255
+	IconSpec=ZAP1
+
+	[Team]
+	id=2
+	Name=$Msg2$
+	Color=15119470
+	IconSpec=BIRD
+
+	[Team]
+	id=3
+	Name=$Msg3$
+	Color=000255000
+	IconSpec=MONS
+
+	[Team]
+	id=4
+	Name=$Msg4$
+	Color=16744448
+	IconSpec=EFLN

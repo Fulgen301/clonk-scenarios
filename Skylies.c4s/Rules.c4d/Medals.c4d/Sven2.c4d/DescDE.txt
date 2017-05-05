@@ -1,0 +1,2 @@
+Töte einen Clonk mit einem Meteoriten.
+(Ja, verdammt. Sowas funktioniert!)

@@ -1,0 +1,15 @@
+[Particle]
+Name=ShortFog
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,80,160,-40,-80
+Delay=10
+Repeats=1
+Reverse=0
+GravityAcc=0
+Additive=0
+AlphaFade=1
+FadeOutLen=1
+FadeOutDelay=700

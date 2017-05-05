@@ -1,0 +1,12 @@
+[DefCore]
+id=PIFT
+Name=Poision fist
+Category=1
+Picture=0,0,64,64
+Version=4,9,5,4
+Width=16
+Height=20
+Offset=-8,-10
+Value=16
+Components=ISPH=1
+NoBurnDecay=1

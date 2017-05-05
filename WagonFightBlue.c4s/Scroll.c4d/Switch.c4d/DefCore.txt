@@ -1,0 +1,8 @@
+[DefCore]
+id=WGNS
+Name=Switch!
+Category=131073
+Picture=0,0,40,32
+Version=4,9,5
+Value=8
+Components=IASH=1;

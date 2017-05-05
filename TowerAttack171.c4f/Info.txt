@@ -1,0 +1,102 @@
+Hier eine kleine Auflistung zum Entwickeln von TowerAttack Szenarien
+
+Falls jemand Intresse hat eigene Szenarien mit dem TowerAttack-Spielprinzip zu erstellen darf er das gerne tuen (auch ohne vorherige Anfrage). Allerdings währe eine Erwähnung ganz Nett.
+
+Um TowerAttack-Szenarien zu erstellen sollten im Szenario folgende Definitionen geladen werden:
+
+[Definitions]
+Definition1=Objects.c4d
+Definition2=Fantasy.c4d
+Definition3=Knights.c4d
+Definition4=MetalMagic.c4d
+Definition5=TowerAttack.c4f\Objects.c4d
+
+und dann die TowerAttack-Regel (und am besten noch 2xLöscher [der Balance wegen]) aktiviert werden.
+
+
+TowerAttack Callbacks:
+
+TA_AIBuildplacesX(int iPlr,int iMode):
+  Bauplätze für die KI (X-Position)
+  Sollte ein Array zurückgeben
+  
+TA_AIBuildplacesY(int iPlr,int iMode):
+  Bauplätze für die KI (Y-Position)
+  Sollte ein Array zurückgeben
+  
+GetCrapStartPosition(int iTeam,bool fY):
+  Spawnposition für die Truppen
+
+SetRelaunchPos(object pClonk):
+  SetRelaunchPos wird aufgerufen wenn ein Clonk wiederbelebt wird
+  Hier sollte der entsperechende Clonk an die Startposition zurückgesetzt werden
+
+HardcodetBulkAIMovement(object pBulkPart,&Param,int iMode,&iWay,object pTarget):
+  Szenariospezifische Einheiten-KI-Bewegung
+  Sollte bei mehreren Wegen dafür sorgen das sie den entsprechenden Weg gehen
+  Rückgabewert 1 wenn die Standartbewegungsroutine nicht ausgeführt werden soll
+  Param kann beliebig gesetzt werden (bei iMode=TWRATK_Cmd_Follow bestimmt er welchen Abstand die Einheit einhalten soll)
+  
+HardcodetAIMovement(object pClonk):
+  Szenariospezifische SpielerHelden-KI-Bewegung
+  Sollte die Helden an die richtigen Positionen führen
+  
+InitBulkAIPart(object pBulkPart, szAI):
+  Ausrüsten der KI (wird normalerweise nicht benötigt)
+  
+  
+TowerAttack Funktionen:
+
+  TWRATKChangeLP(iTeam,iAmount):
+    gibt iTeam iAmount Leben
+    
+  CheckScoreboard():
+    Überprüft die Daten im Scoreboard
+    
+  im Clonk:
+    SetBulkAI():
+      Aktiviert die Standard-KI
+    SetDestroyerAI():
+      Aktiviert die Zerstörer-KI
+    SetBowAI():
+      Aktiviert die Bogenschützen-KI
+    SetAIMode(iMode,pTarget):
+      Setzt den Befehl für die Einheit, pTarget ist bei iMode=TWRATK_Cmd_Follow dem zu folgendem Objekt (das Objekt muss leben)
+  
+  
+TowerAttack Konstanten:
+
+  EinheitenKI:
+    TWRATK_Cmd_Attack=1                 // Standart: Zum Feind bewegen
+    TWRATK_Cmd_Follow=2                 // Folgen: Ziel folgen
+    TWRATK_Cmd_Retreat=3                // Fliehen: Zur eigenen Seite zurückkehren
+    TWRATK_Cmd_Defend=4                 // Verteidigen: Stehen bleiben
+
+  KISpielerModi:
+    TWRATCK_AIMode_BuildUp=0            // Aufbauen
+    TWRATCK_AIMode_Attack=1             // Angreifen (passiv)
+    TWRATCK_AIMode_BuildUpDefense=2     // Verteidigen
+    TWRATCK_AIMode_StormTroop=3         // Grossen Angriffstrupp losschicken
+    TWRATCK_AIMode_SaveMoney=4          // Geld sparen
+    TWRATCK_AIMode_Expand=5             // Expandieren
+    TWRATCK_AIMode_FinalStrike=6        // Geld sparen und dann einen Grossangriff starten
+    
+  KISpielerpersonalitäten:
+    TWRATCK_AIType_Default=1            // Standart
+    TWRATCK_AIType_Attack=2             // Agressiv
+    TWRATCK_AIType_Rush=3               // Sehr agressiv
+    
+
+TowerAttack Effekte:
+
+  CreateArmy:
+    Zusatzparameter:idType, iX, iY, iPlr
+    Erstellt bei einigen (zufällig) Timeraufrufen eine Einheit vom Typ idType des Spielers iPlr an der Position iX,iY
+    Beispiel:
+      AddEffect("CreateArmy",0,50,35,0,0,CLNK,100,100,0);
+      erstellt ungefähr alle 175 Frames einen Clonk für den ersten Spieler der wie jede andere Standard-Einheit agiert
+    
+  Relaunch:
+    Relauncht die Einheit beim Tod
+
+

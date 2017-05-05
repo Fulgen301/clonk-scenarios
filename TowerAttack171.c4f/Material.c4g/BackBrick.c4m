@@ -1,0 +1,6 @@
+[Material]
+Name=BackBrick
+Color=60,50,50,130,120,120,150,140,140
+Shape=0
+TextureOverlay=Brick
+OverlayType=3

@@ -1,0 +1,19 @@
+Erstellen neuer Medaillen
+====================
+1. Öffne MedalIndex.txt und trage dort deine Medaille ein, mit einer bisher noch nicht vorhandenen ID mit dem Format ??_M. 
+------------------------------------
+2. Schreibe es am besten in Klammer, bis die Medaille fertig und Funktionsfähig ist
+------------------------------------
+3. Kopiere das Template (Medal).c4d und bearbeite dieses:
+------------------------------------
+4. Autor.txt: Deinen Namen eintragen
+------------------------------------
+5. MedalIndex(): Hier die Zahl vor der ID von MedalIndex.txt eintragen. ("9 - SW_M" -> return 9;)
+------------------------------------
+6. MedalEntry(): Hier die Zahl der Überschrift von MedalIndex.txt eintragen. ("SKYM_Medal5" -> return 5;)
+------------------------------------
+7. Falls du den Script extern machst, bitte im Medaillenscript vermerken, in welcher Datei der Script steht.
+------------------------------------
+8. Wenn alles fertig ist, in MedalIndex.txt die Medaille als Fertig (Klammern wegmachen) deklarieren.
+------------------------------------
+9. Danach den dazugehörigen Eintrag aus Ideas.txt löschen

@@ -1,0 +1,8 @@
+[DefCore]
+id=STRN
+Name=Train beschwoeren
+Category=131073
+Picture=0,0,64,64
+Version=4,9,5
+Value=8
+Components=IASH=1;

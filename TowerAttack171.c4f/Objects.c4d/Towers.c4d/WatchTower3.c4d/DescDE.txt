@@ -1,0 +1,3 @@
+Bringt ein totbringendes Feuerpfeilinferno in die Feindesmenge.
+
+Reichweite: 700px (100px)

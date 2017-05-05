@@ -1,0 +1,3 @@
+Medals=Deine Punkte
+Reset=wurden zurückgesetzt.
+ResetMessage=%s hat seine Punkte zurückgesetzt.

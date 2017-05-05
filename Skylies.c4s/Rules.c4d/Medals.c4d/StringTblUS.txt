@@ -1,0 +1,8 @@
+Medals=Your medals
+ResetMessage=%s reseted his Medals.
+Reward=%s has now a new medal: <c>%s</c>.
+Nothing=Nope
+
+
+PostMedal=Post Medals
+Posts=["%s would like to brag about his medals","%s wants to show you his pile of medals","%s opens his medal chest","Look, %s has already collected %d medals","Who's the pro? It's %s"]

@@ -1,0 +1,34 @@
+# Hostmenü
+MnuHostTitle=Settings
+MnuHostInfoCap=You can adjust various settings. But hurry, the others are waiting!
+MnuHostRelaunchesCap=Relaunches
+MnuHostRelaunchesTxt=Here you can adjust how often players are relaunched after death.
+MnuHostClonksCap=Clonks
+MnuHostClonksTxt=Here you can set the clonk type for each relaunch.
+MnuHostReadyCap=Go
+MnuHostReadyTxt=Begin the game!
+# Relaunchmenü
+MnuRelaunchTitle=Relaunch options
+MnuRelaunchInfoCap=Currently %d relaunches are set
+MnuRelaunchIncreaseCap=More relaunches
+MnuRelaunchDecreaseCap=Less relaunches
+# Clonkmenü
+MnuClonkDefTitle=Clonk menu
+MnuClonkDefStartclonkCap=<c aaaaaa>First clonk:</c> %s
+MnuClonkDefStartclonkTxt=First fighter is %s.
+MnuClonkDefRelaunchCap=<c cccccc>Relaunch %d:</c> %s
+MnuClonkDefUndefinedTxt=The clonk type for this relaunch has to be set!
+# Clonkauswahlmenü
+MnuClonkTitle=Clonk choose menu
+MnuClonkCap=Choose %s
+# Waffenmenü
+MnuWeaponTitle=Choose your weapon!
+MnuWeaponSelectCap=Choose %s
+
+MsgClonksMustBeDefined=You have to define every clonk!
+
+# Wurfmesser
+Stab=Stab
+
+# Knüppel
+UseClub=Hit

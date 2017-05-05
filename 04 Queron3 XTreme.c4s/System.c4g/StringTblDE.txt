@@ -1,0 +1,34 @@
+# Hostmenü
+MnuHostTitle=Einstellungen
+MnuHostInfoCap=Hier kannst du Verschiedenes einstellen. Beeil dich aber, die anderen warten!
+MnuHostRelaunchesCap=Relaunches
+MnuHostRelaunchesTxt=Hier kannst du einstellen, wie oft die Spieler nach dem Tod relauncht werden.
+MnuHostClonksCap=Clonks
+MnuHostClonksTxt=In diesem Menü kannst für jeden Relaunch einen Clontyp festlegen (z.B. Magier oder Ritter).
+MnuHostReadyCap=Fertig
+MnuHostReadyTxt=Beim wählen dieses Eintrags wird das Menü geschlossen und das Spiel gestartet! Viel Spass!
+# Relaunchmenü
+MnuRelaunchTitle=Relaunchoptionen
+MnuRelaunchInfoCap=Zurzeit sind %d Relaunches eingestellt.
+MnuRelaunchIncreaseCap=Mehr Relaunches
+MnuRelaunchDecreaseCap=Weniger Relaunches
+# Clonkmenü
+MnuClonkDefTitle=Clonkmenü
+MnuClonkDefStartclonkCap=<c aaaaaa>Startclonk:</c> %s
+MnuClonkDefStartclonkTxt=Als erstes wird der %s ins Feld geführt.
+MnuClonkDefRelaunchCap=<c cccccc>%d.Relaunch:</c> %s
+MnuClonkDefUndefinedTxt=Der Clonktyp für diesen Relaunch muss noch gesetzt werden!
+# Clonkauswahlmenü
+MnuClonkTitle=Clonkauswahlmenü
+MnuClonkCap=%s auswählen
+# Waffenmenü
+MnuWeaponTitle=Wähle deine Waffe!
+MnuWeaponSelectCap=%s wählen.
+
+MsgClonksMustBeDefined=Du musst schon alle Clonks definieren! Sonst stell halt weniger ein! :O
+
+# Wurfmesser
+Stab=Erstechen
+
+# Knüppel
+UseClub=Zuschlagen

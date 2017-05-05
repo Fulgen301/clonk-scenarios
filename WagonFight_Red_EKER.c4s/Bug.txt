@@ -1,0 +1,3 @@
+ERROR: operator "=" left side: got "any", but expected "&"!
+ by: RelaunchPlayer(0,Xenor #122,1) (WagonFight_Red_EKER.c4s\Script.c:126)
+ by: Death(-1) (obj Xenor #122) (EkeReloaded.c4d\Creatures.c4d\SFT.c4d\Script.c:717)

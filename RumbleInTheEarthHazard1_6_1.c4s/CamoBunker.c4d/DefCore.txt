@@ -1,0 +1,14 @@
+[DefCore]
+id=CB5B
+Name=CamoBunker
+Version=4,9,5
+Category=C4D_Structure
+Width=120
+Height=28
+Offset=-60,-14
+Value=1000
+Mass=5000
+Vertices=2
+VertexX=-25,0
+VertexY=-15,13
+Exclusive=1

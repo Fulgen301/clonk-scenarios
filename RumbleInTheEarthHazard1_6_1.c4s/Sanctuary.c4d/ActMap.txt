@@ -1,0 +1,5 @@
+[Action]
+Name=Countdown
+Delay=35
+NextAction=Countdown
+StartCall=Countdown

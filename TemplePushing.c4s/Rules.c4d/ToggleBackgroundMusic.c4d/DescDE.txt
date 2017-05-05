@@ -1,0 +1,1 @@
+Regel zum Ein- und Ausschalten der Hintergrundmusik.

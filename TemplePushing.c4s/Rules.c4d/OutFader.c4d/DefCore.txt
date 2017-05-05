@@ -1,0 +1,11 @@
+[DefCore]
+id=OFDR
+Version=4,9,9,9
+Name=Out Fader
+Category=C4D_StaticBack|C4D_Rule
+MaxUserSelect=1
+Width=1
+Height=1
+Picture=0,0,64,64
+TimerCall=Fading
+Timer=50

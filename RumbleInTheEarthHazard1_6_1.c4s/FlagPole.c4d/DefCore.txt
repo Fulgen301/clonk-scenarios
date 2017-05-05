@@ -1,0 +1,12 @@
+[DefCore]
+id=FP5B
+Version=4,9,8
+Name=FlagPole
+Category=C4D_Structure
+Width=42
+Height=100
+Offset=-21,-50
+Vertices=1
+VertexY=48
+Grab=2
+AttractLightning=1

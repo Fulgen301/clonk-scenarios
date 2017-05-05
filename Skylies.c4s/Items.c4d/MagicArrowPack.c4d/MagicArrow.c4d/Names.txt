@@ -1,0 +1,2 @@
+DE:Magiepfeil
+US:Magic arrow

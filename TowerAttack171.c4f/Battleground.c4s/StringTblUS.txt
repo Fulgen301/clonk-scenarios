@@ -1,0 +1,2 @@
+TeamLeft=Left
+TeamRight=Right

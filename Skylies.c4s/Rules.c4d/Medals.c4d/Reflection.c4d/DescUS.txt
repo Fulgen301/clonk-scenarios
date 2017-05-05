@@ -1,0 +1,1 @@
+Reflect a projectile shot by a cannon or a catapult and kill a clonk of the player who shot the object.

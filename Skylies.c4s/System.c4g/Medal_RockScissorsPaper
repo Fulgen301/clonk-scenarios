@@ -1,0 +1,13 @@
+/*-- Neues Script --*/
+
+#strict
+#appendto SCOR
+
+global func AddKill(int iKiller, int iOpfer) { // Fügt ein Kill hinzu und rechnet die Punkte
+ if(aKillBonusTime[iOpfer]){ // Omg dein Opfer hat KillBonus zeit. Das heißt ...
+      var pMedal = FindObject(SS_M);
+      if(pMedal)
+        Reward(pMedal,iKiller);    // Stein Shere Papier medaille
+ }
+return(_inherited());
+}

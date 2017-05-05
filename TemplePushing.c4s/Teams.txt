@@ -1,0 +1,33 @@
+[Teams]
+Active=1
+AllowHostilityChange=0
+AllowTeamSwitch=0
+TeamColors=1
+TeamDistribution=Host
+	[Team]
+	id=1
+	Name=$TeamOne$
+	PlrStartIndex=1
+	Color=16711680
+	IconSpec=TMS1:0
+
+	[Team]
+	id=2
+	Name=$TeamTwo$
+	PlrStartIndex=2
+	Color=16751360
+	IconSpec=TMS1:1
+
+	[Team]
+	id=3
+	Name=$TeamThree$
+	PlrStartIndex=3
+	Color=6684927 
+	IconSpec=TMS1:2
+	
+	[Team]
+	id=4
+	Name=$TeamFour$
+	PlrStartIndex=4
+	Color=22015
+	IconSpec=TMS1:3

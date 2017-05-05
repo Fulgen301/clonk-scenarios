@@ -1,0 +1,5 @@
+Greift selbstständig Gegner in der Umgebung mit einer Kugel aus komprimierter Magie an welche den Gegner sucht und bei Kontakt explodiert.
+
+Schaden:    0-17
+Reichweite: 170px
+Geschwindigkeit: Schnell

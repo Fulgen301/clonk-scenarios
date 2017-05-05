@@ -1,0 +1,12 @@
+[Material]
+Name=Wall
+Color=255,255,51
+#Color=255,255,51
+Shape=1
+Density=50
+Friction=100
+MaxAirSpeed=100
+MaxSlide=250
+Placement=70
+TextureOverlay=Rough
+OverlayType=1

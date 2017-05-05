@@ -1,0 +1,7 @@
+[Action]
+Name=Blow
+Procedure=FLOAT
+Length=120
+Delay=2
+Facet=0,0,30,30
+NextAction=Blow

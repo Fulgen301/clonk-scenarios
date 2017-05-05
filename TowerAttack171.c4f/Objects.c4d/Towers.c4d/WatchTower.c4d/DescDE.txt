@@ -1,0 +1,3 @@
+Beschiesst Gegner mit Pfeilen.
+
+Reichweite: 400px (75px)

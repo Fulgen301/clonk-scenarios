@@ -1,0 +1,1 @@
+Spawnpoints only spawn scrolls.

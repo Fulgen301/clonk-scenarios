@@ -1,0 +1,7 @@
+[Material]
+Name=BackWall
+Color=26,20,14,26,25,15,28,31,23
+Shape=0
+Placement=60
+TextureOverlay=Brick
+OverlayType=1

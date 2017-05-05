@@ -1,0 +1,2 @@
+Erlange 6 Kills an Spielern, die maximal die hälfte deiner Punktzahl haben.
+Der Punkte-Unterschied zwischen den Spielern darf nicht kleiner als 500 Punkte sein.

@@ -1,0 +1,1 @@
+Gegenstände die eine Weile in der Gegend herumliegen verschwinden automatisch langsam.

@@ -1,0 +1,4 @@
+Feuert den Gegnern heftig ein.
+
+Reichweite: Nahkampf
+Angriffsgeschwindigkeit: 0.1 Angriffe pro Sekunde

@@ -1,0 +1,10 @@
+/*-- Fundament --*/
+
+#strict
+
+local basement;
+
+/* BAS7 stellt die Grundfunktionalität für alle Fundament-Objekte sowie 
+   abgeleitete Gebäude-Objekte zur Verfügung. */
+
+// Daher konnte ich das einfach überladen und nichts schreiben :)

@@ -1,0 +1,1 @@
+Schleudert eine gewisse Zeit alle Objekte in der Nähe umher.

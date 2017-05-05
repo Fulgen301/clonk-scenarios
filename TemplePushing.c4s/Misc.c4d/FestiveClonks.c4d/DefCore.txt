@@ -1,0 +1,7 @@
+[DefCore]
+id=FSVC
+Name=Anoraks
+Version=4,9,5
+Category=C4D_Living
+Picture=6,0,64,64
+ColorByOwner=1

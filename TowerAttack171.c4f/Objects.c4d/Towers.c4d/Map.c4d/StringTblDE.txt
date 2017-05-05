@@ -1,0 +1,2 @@
+NotEnoughMoney=Du hast nicht genügend Geld!
+NoAlchiBag=Du hast keinen Alchemie-Beutel!

@@ -1,0 +1,13 @@
+MnuKingShopInfo=Guten Tag Untertan, ich bin König Sven II. Bei mir gibts nur gaaaaanz wertvolle Sachen die du eh nicht bezahlen kannst!
+MnuKingShopYes=Aber mit Verlaub!
+MnuKingShopNo=Ach, wie gemein
+
+MnuKnightShopInfo=Ich bin Schmied Kuno und stelle verschiedene Waffen her.
+MnuKnightShopYes=Zeig mal!
+MnuKnightShopNo=Mir egal
+
+MnuScorcerShopInfo=Hallo Fremder! Bei mir findest du alles von Magiern für Magier! Willst du was?
+MnuScorcerShopYes=Was hast denn so?
+MnuScorcerShopNo=Nee, geh wek!
+
+MsgItemDelivered=+{{%i}}

@@ -1,0 +1,2 @@
+SpellInfo=Des Clonk macht im Kampf erhöhten Schaden.
+Activate=Giftfaust nun|im Nahkampf verfügbar.

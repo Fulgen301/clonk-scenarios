@@ -1,0 +1,10 @@
+Back=Zurück
+Done=Fertig
+Relaunches=Relaunches
+Kills=Kills
+Landscape=Sektion
+Mode=Modus
+Enabled=Aktiviert
+Disabled=Deaktiviert
+Ambience=Ambiente
+Random=Zufällig

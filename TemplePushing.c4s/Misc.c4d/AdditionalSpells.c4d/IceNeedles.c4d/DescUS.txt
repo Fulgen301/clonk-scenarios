@@ -1,0 +1,1 @@
+Shoots ice needles in the selected direction.

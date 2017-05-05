@@ -1,0 +1,2 @@
+Erlange einen Kill bei einem Spieler, der mindestens das doppelte deiner Punkte hat.
+Der Punkte-Unterschied zwischen den Spielern darf nicht kleiner als 500 Punkte sein.

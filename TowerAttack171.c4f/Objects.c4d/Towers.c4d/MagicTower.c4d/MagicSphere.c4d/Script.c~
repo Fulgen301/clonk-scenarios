@@ -1,0 +1,125 @@
+/*-- Magiekugel --*/
+
+#strict
+
+local pTarget,bGo,iAngle,iRange,iSpeed,iDamage,iWaveRange,startTime;
+
+protected func Initialize()
+{
+  // Effekt zur Steuerung
+  var iResult = AddEffect("MagicSphereFloat", this(), 20, 10, this());
+  // Effekt abgelehnt?
+  if (iResult <= 0) return(RemoveObject());
+  // Flugaktivität
+  SetAction("Fly");
+  
+  iRange=120;
+  iSpeed=40;
+  iDamage=2;
+  iWaveRange=20;
+  
+  return(1);
+}
+
+public func Set(speed,range,damage,waverange)
+{
+  if(speed) iSpeed=speed;
+  if(range) iRange=range;
+  if(damage) iDamage=damage;
+  if(waverange) iWaveRange=waverange;
+}
+
+public func Hit()
+{
+  var iNumber=AddEffect("MagicwaveNSpell",0,130,1,0,GetID(),GetX(),GetY(),iWaveRange,iDamage);
+  if(iNumber)
+    EffectVar(6,0,iNumber)=GetOwner();
+  Sound("MagicExplode",false,this);
+  RemoveObject();
+}
+
+func FxMagicSphereFloatTimer(pTargetX, iEffectNumber, iEffectTime)
+{
+  // Partikelz!
+  CreateParticle("ShockWave",RandomX(-1,1),RandomX(-1,1),RandomX(-1,1),RandomX(-1,1),80+iEffectTime/3%80,RGBa(180,180,255),this());
+  
+  var iAngle2;
+  
+  // Ziel angreifen
+  if(pTarget)
+    iAngle2=Angle(GetX(),GetY(),GetX(pTarget)+GetXDir(pTarget),GetY(pTarget)+GetYDir(pTarget));
+  // Ziel suchen
+  else
+  {
+    pTarget=FindObject2(Find_NotHidden(),Find_OCF(OCF_CrewMember),Find_Hostile(GetOwner()),Find_Distance(iRange),Find_PathFree(),Sort_Random());
+    if(pTarget)
+    {
+      startTime=iEffectTime;
+      bGo=true;
+    }
+  }
+
+  if(pTarget)
+    iAngle=(iAngle+iAngle2*4)/5;
+
+  if(bGo)
+    SetSpeed(Sin(iAngle,BoundBy((iEffectTime-startTime)*3,0,iSpeed)),-Cos(iAngle,BoundBy((iEffectTime-startTime)*3,0,iSpeed)));
+  
+  if(FindObject2(Find_OCF(OCF_Alive),Find_Hostile(GetOwner()),Find_Distance(10)))
+    Hit();
+  
+  return(1);
+}
+
+func FxMagicSphereFloatStop(object pTarget, int iEffectNumber, int iReason, bool fTemp)
+{
+  if(fTemp) return();
+  CreateParticle("PSpark",0,0,0,0,300,RGB(255,255,255));
+  RemoveObject();
+  return(1);
+}
+
+func FxMagicwaveNSpellStart(object pTarget, int iNumber, int iTemp, int iX, int iY,intWaveRange,intDamage) {
+  if(iTemp) return();
+
+  // Richtung speichern
+  EffectVar(1,pTarget,iNumber) = 3;
+
+  // Position
+  EffectVar(2,pTarget,iNumber) = iX;
+  EffectVar(3,pTarget,iNumber) = iY;
+  EffectVar(4,pTarget,iNumber) = intWaveRange;
+  EffectVar(5,pTarget,iNumber) = intDamage;
+  
+  CreateParticle("Blast",iX,iY,0,0,FxMagicwaveNSpellMaxRange()*10,RGB(64,64,255));
+}
+
+func FxMagicwaveNSpellTimer(object pTarget, int iNumber, int iTime) {
+
+  var iRadius = EffectVar(1,pTarget,iNumber);
+  var iStrength=EffectVar(4,pTarget,iNumber)-iRadius;
+  // löschen falls kraftlos
+  if(iStrength<=0) return(-1);
+
+  var iX = EffectVar(2,pTarget,iNumber);
+  var iY = EffectVar(3,pTarget,iNumber);
+
+  if(!(iTime%4))
+    CreateParticle("ShockWave",iX,iY, RandomX(-1,1),RandomX(-1,1), 20+15*iRadius,RGB(127,127,255));
+
+  var angle;
+  for(var obj in FindObjects(Find_Not(Find_Distance(iRadius-2,iX,iY)),Find_Distance(iRadius+3,iX,iY),Find_OCF(OCF_Alive),Find_NoContainer()))
+  {
+    if(GetEffect("MagikWaveDelay",obj))
+      continue;
+    AddEffect("MagikWaveDelay",obj,1,20);
+    angle=Angle(iX, iY, GetX(obj), GetY(obj) );
+    Fling(obj, Sin(angle, 1+iStrength/16), -Cos(angle, 1+iStrength/16)-2);
+    if(Hostile(GetOwner(obj),EffectVar(6,pTarget,iNumber)))
+      DoEnergy(-(1+iStrength/EffectVar(5,pTarget,iNumber)),obj);
+  }
+
+  EffectVar(1,pTarget,iNumber)+=2;
+}
+
+func FxMagicwaveNSpellMaxRange(pTarget,iNumber) { return(); }

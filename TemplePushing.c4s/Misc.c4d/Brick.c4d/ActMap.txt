@@ -1,0 +1,6 @@
+[Action]
+Name=Flying
+Procedure=FLOAT
+Directions=2
+Length=2
+Facet=0,0,20,20

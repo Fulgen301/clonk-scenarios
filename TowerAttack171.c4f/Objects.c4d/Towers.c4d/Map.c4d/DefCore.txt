@@ -1,0 +1,22 @@
+[DefCore]
+id=COBS
+Name=Commando Base
+Version=4,9,5
+Category=2
+MaxUserSelect=1
+Width=50
+Height=55
+Offset=-25,-27
+Value=100
+Mass=100
+Components=METL=12;
+Picture=50,0,50,55
+Vertices=4
+VertexX=-25, 25, -25, 25
+VertexY=-27, -27, 27, 27
+VertexFriction=100, 100, 100, 100
+Grab=2
+Construction=1
+BlastIncinerate=100
+GrabPutGet=1
+TimerCall=Check

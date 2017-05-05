@@ -1,0 +1,2 @@
+DE:Spawn Point
+US:Spawn Point

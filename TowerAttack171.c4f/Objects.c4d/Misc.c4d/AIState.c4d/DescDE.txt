@@ -1,0 +1,1 @@
+Hier lassen sich die Eigenschaften der KIs einsehen und (falls diese verbündet ist) auch verändern.

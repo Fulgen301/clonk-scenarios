@@ -1,0 +1,4 @@
+MsgLearned=%s learnt!
+MsgNoSpell=I cannot decipher anything.
+MsgKnown=I learnt %s already.
+MsgIntro=Hint: Activate scrolls in order to learn the spells and construction plans written on them.

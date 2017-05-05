@@ -1,0 +1,1 @@
+The game modes establish basic rules and functionalities of the game.

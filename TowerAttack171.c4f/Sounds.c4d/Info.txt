@@ -1,0 +1,3 @@
+Die Sounds "Die2.ogg" und "Die3.ogg" sind von Freesound.org von Erdie. Die Lizenz ist "Creative Commons Sampling Plus 1.0 License".
+
+"Die4.ogg" und "Die5.ogg" verwenden Stücke aus "Die2.ogg" und "Die3.ogg". 

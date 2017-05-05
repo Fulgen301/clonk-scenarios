@@ -1,0 +1,26 @@
+[DefCore]
+id=BRK2
+Name=BigBrick
+Version=4,9,5
+Category=4
+MaxUserSelect=0
+Width=20
+Height=20
+Offset=-10,-10
+Value=50
+Mass=100
+Components=ROCK=8;
+ContactCalls=1
+Picture=0,0,20,20
+Vertices=9
+VertexX=0, -11,-11, 10, 10,-12,  0, 11,  0
+VertexY=14,-11, 11,-11, 11,  0,-12,  0, 11
+VertexCNAT=127
+SolidMask=0,0,20,20
+VertexFriction=10000,10000,10000,10000,10000,10000,10000,10000,10000
+ColorByMaterial=Brick
+TimerCall=CheckHit
+Timer=1
+ 
+[Physical]
+Float=200

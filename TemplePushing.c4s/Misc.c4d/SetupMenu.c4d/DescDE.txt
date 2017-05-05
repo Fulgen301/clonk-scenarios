@@ -1,0 +1,1 @@
+Einstellungsmenü das beim Start des Szenarios angezeigt wird.

@@ -1,0 +1,1 @@
+Creates some spawn points in the game which are creating weapons and potions.

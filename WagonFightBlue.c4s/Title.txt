@@ -1,0 +1,2 @@
+DE:Wagon Fight <c 0000ff>Blue</c> v1.15
+US:Wagon Fight <c 0000ff>Blue</c> v1.15

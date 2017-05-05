@@ -1,0 +1,2 @@
+[Teams]
+FreeForAll=0

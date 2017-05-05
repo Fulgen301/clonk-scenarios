@@ -1,0 +1,22 @@
+/*-- Makes some objects bounce after hit --*/
+
+#strict 2
+
+#appendto ROCK
+#appendto SWOR
+#appendto AXE1
+#appendto ARWP
+#appendto SFLN
+#appendto FLNT
+#appendto EGBL
+#appendto EFLN
+
+protected func Hit()
+{
+	if (Random(10)) return _inherited();
+	SetYDir(-20);
+
+	Sound("Boing");
+
+	return 1;
+}

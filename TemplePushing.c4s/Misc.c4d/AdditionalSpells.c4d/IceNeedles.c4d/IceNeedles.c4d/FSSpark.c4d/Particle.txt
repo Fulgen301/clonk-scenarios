@@ -1,0 +1,14 @@
+[Particle]
+Name=FSSpark
+MaxCount=2000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Delay=0
+Repeats=6
+GravityAcc=0
+AlphaFade=4
+Additive=1
+Attach=1
+RByV=1

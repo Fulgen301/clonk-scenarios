@@ -1,0 +1,22 @@
+Dinkel-Vereinigung
+
+Marcel Claus (Gecko / Geckse / Gecko Eidechse)
+ - Idee
+ - Leitung
+ - Entwicklung
+ - Gestaltung
+ - Grundstein des Szenarios
+
+Daniel Wiegert (Pitri)
+ - Medaillensystem
+ - Medaillen
+ - Gegenstand herbeizaubern
+ - Restless (Zauber)
+ - Electricity (Zauber)
+ - Diverse Bugfixes
+ 
+Daaje Meiners (Octagon)
+ - Medaillen
+
+Johannes Gröning (Wipfhunter)
+ - Medaillen

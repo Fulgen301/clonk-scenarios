@@ -1,0 +1,7 @@
+NoRelaunch=%s has no Relaunchs left.
+Relaunch=%s has %d Relaunchs left.
+NoRelaunchWithKiller=%s has no Relaunchs left. (killed by %s)
+RelaunchWithKiller=%s has %d Relaunchs left. (killed by %s)
+
+restart=Again! \\o/
+restartdesc=Play it again!

@@ -1,0 +1,5 @@
+NoMedals=You didn't collect a medal yet.
+Medal=Your medals
+Reset=have been reseted.
+ResetMessage=%s reseted his Medals.
+Reward=%s has now a new medal: <c>%s</c>.

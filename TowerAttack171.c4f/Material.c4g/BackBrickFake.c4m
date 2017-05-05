@@ -1,0 +1,8 @@
+[Material]
+Name=BackBrickFake
+Color=60,50,50,130,120,120,150,140,140
+Shape=0
+Density=50
+Friction=100
+TextureOverlay=Brick
+OverlayType=3

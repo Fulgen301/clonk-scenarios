@@ -1,0 +1,12 @@
+[Material]
+Name=BlackEarth
+Color=69,61,48,60,57,53,31,37,21
+Shape=3
+Density=50
+Friction=80
+MaxAirSpeed=100
+MaxSlide=1
+Corrode=75
+Soil=1
+Placement=30
+TextureOverlay=Smooth

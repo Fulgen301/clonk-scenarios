@@ -1,0 +1,1 @@
+Schleudere ein Projektil zurück, welches vorher von einer Waffe abgeschossen wurde und töte damit einen Clonk des Spielers, der geschossen hat.

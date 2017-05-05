@@ -1,0 +1,10 @@
+[Action]
+Name=Fly
+Procedure=FLOAT
+Directions=2
+FlipDir=1
+Length=10
+Facet=0,0,32,28
+NextAction=Fly
+Delay=1
+Sound=Chuff

@@ -1,0 +1,4 @@
+You=your
+Part1=[" clonk", " mother", " wipf"," player file"," home"," team"," existence","character"]
+Part2=["sucks","smells like wipf shit","is bugged","hates you","sucks²","wishes to kill you","eats boogers","is worse than Java","is intolerable"]
+Collect=Leave me alone, %s. You suck!

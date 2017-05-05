@@ -1,0 +1,8 @@
+[DefCore]
+id=ICNL
+Name=Eisnadeln
+Version=4,9,5,4
+Category=131073
+Picture=0,0,64,64
+Value=12
+Components=ICRS=3;IICE=2;

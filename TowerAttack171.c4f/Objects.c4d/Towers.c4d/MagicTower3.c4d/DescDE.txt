@@ -1,0 +1,5 @@
+Bombardiert den Feind im rapiden Tempo.
+
+Schaden:    2x 0-23
+Reichweite: 250px
+Geschwindigkeit: Schnell

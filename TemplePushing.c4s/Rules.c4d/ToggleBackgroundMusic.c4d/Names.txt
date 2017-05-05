@@ -1,0 +1,2 @@
+DE:Hintergrundmusik ein-/ausschalten
+US:Toggle background music

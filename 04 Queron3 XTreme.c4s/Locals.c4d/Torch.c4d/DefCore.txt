@@ -1,0 +1,17 @@
+[DefCore]
+id=TORC
+Version=4,9,8
+Name=Torch
+Category=C4D_Vehicle
+Width=14
+Height=26
+Offset=-7,-13
+Vertices=2
+VertexX=-1,1
+VertexY=13,13
+VertexFriction=10,10
+Picture=0,0,14,26
+Components=WOOD=1;SPHR=1
+Value=8
+Mass=10
+Grab=2

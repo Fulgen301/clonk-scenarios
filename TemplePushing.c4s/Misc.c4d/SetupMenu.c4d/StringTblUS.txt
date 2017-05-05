@@ -1,0 +1,10 @@
+Back=Back
+Done=Done
+Relaunches=Relaunches
+Kills=Kills
+Landscape=Section
+Mode=Mode
+Enabled=Enabled
+Disabled=Disabled
+Ambience=Ambience
+Random=Random

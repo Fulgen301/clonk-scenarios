@@ -1,0 +1,4 @@
+MsgLearned=%s gelernt!
+MsgNoSpell=Unleserlich.
+MsgKnown=%s kann ich schon.
+MsgIntro=Hinweis: Aktiviere Schriftrollen, um die Zauber oder Bauplan zu lernen!

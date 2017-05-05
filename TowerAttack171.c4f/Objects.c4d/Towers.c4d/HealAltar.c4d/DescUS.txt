@@ -1,0 +1,4 @@
+Heals friendly units.
+
+Range:       100px
+Healingrate: 0.4 LP pro Sekunde

@@ -1,0 +1,1 @@
+Summons numerous crystal spikes which damage entities on impact, while also dealing damage to any living clonks or animals standing next to them. 

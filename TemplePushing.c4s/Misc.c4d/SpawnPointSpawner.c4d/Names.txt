@@ -1,0 +1,2 @@
+DE:Spawn Point Spawner
+US:Spawn Point Spawner

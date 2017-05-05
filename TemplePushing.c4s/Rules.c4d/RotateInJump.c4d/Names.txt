@@ -1,0 +1,2 @@
+DE:Rotation im Sprung
+US:Rotate in jump

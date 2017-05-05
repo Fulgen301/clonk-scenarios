@@ -1,0 +1,4 @@
+Pustet die Gegner gelegentlich weg.
+
+Reichweite: Nahkampf
+Angriffsgeschwindigkeit: 0.2 Angriffe pro Sekunde

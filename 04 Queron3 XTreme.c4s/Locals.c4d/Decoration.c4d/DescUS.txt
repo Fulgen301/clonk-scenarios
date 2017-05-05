@@ -1,0 +1,1 @@
+Allocates the decoration of the scenario.

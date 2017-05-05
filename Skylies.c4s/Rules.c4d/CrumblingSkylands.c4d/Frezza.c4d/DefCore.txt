@@ -1,0 +1,16 @@
+[DefCore]
+id=FREZ
+Version=4,9,8
+Name=Skyland Eater
+Category=C4D_Vehicle
+MaxUserSelect=5
+Width=6
+Height=6
+Offset=-3,-3
+Value=0
+Mass=0
+Components=BIRD=3;
+Picture=6,0,64,64
+Rotate=1
+Timer=2
+TimerCall=Check

@@ -1,0 +1,14 @@
+[DefCore]
+id=IR0D
+Name=Insult rock
+Version=4,9,5
+Category=C4D_Vehicle
+Width=6
+Height=6
+Offset=-3,-3
+Picture=6,0,64,64
+Vertices=1
+VertexY=1
+VertexFriction=100
+Collectible=1
+ 

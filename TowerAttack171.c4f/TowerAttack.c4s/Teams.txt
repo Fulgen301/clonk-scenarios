@@ -1,0 +1,17 @@
+[Teams]
+MaxScriptPlayers=17
+TeamColors=1
+
+	[Team]
+	id=1
+	Name=$TeamLeft$
+	Color=16711680
+	IconSpec=TEMS:2
+	PlrStartIndex=1
+
+	[Team]
+	id=2
+	Name=$TeamRight$
+	Color=8220059
+	IconSpec=TEMS:3
+  PlrStartIndex=2

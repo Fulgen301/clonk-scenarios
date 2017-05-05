@@ -1,0 +1,3 @@
+Schockfrostet die Gegner gelegentlich
+Reichweite: Nahkampf
+Angriffsgeschwindigkeit: 0.15 Angriffe pro Sekunde

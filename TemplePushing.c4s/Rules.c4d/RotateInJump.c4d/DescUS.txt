@@ -1,0 +1,1 @@
+Allows the Clonk to change his direction while jumping.

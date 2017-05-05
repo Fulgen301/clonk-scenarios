@@ -1,0 +1,2 @@
+DE:TowerAttack 1.7
+US:TowerAttack 1.7

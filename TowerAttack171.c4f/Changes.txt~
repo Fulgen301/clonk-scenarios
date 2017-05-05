@@ -1,0 +1,98 @@
+1.71:
+nen paar Bugs gefixt
+mehrere Sterbesounds :D
+
+1.7:
+Zerstörer sind kräftiger
+Zombies explodieren nichtmehr in einer so großen Explosion ^^
+SurvivalModus neu Balanced (macht jetzt sogar richtig Spaß^^)
+höheres Spielermaximum (vorher 10 wovon 6 Skriptspieler sein konnten, jetzt 18 wovon 17 Skriptspieler sein können)
+Erforschung neuer Türme funktioniert nun endlich
+Albtraumschwierigkeitsgrad für Survival
+Nen Musikstück von KPone
+die zu spawnenden Truppen lassen sich nun verändern "Konsole->Truppen-Managment->Truppen verstaerken"
+Landschaft angepasst
+Neuer Modus: Zeitkampf (man hat statt 1 Minute, 15 Minuten Vorbereitungszeit nach dieser Zeit lassen sich aber keine Türme mehr bauen)
+KI-ZaubererAuswahlProblem endlich gelöst (hoffentlich!)
+Neue Spezial(Helden)KI: Paladin
+Es ist nun möglich die Truppen die die ganze Zeit gespawnt werden verändern. Siehe KommandoBasis->Truppenmanagment->Truppen verstärken
+Die Schilde der Ritter werden endlich ausgefadet.
+Zerstörer achten mehr auf Fallen
+
+1.6:
+Truppen werden stoßweise gespawnt (und nebenbeibemerkt das gesamte spawnen umgeskriptet)
+neuer Modus: Survival (TowerDefense-artig, sollte anstatt dem "gegen KISpieler zocken" gespielt werden^^)
+Neue Türme (müssen erst erforscht werden): Feuerhagelturm, Magieturm Lvl. 3
+Die KI kauft in der Vorbereitungszeit keine Truppen mehr
+Assasine hat nun Diebe anstatt normalen Clonks als Truppen
+Helden erstmal entfernt (ich skripte momentan an einer KI für die einzelnen Heldentypen)
+Sparen lohnt sich mehr... (das Einkommen ist kaum mehr durch das bisher vorhandene Kapital abhängig)
+Leben sind teurer
+viele kleine Bugfixes
+ein MIDIMusikstück mehr
+
+1.51:
+Truppenkaufbug gefixt
+Anzahl Leben Formel korrigiert
+
+1.5:
+Highscores werden nun auch beim Spielstart verteilt
+Totezähler funzt wieder
+"Material-Ecken"
+Feuer wieder leicht verstärkt, dafür aber den Zusatzschaden bei der Feuerfalle entfernt
+"eigene" Zauber für den Lich (Kombosystem funzt beim Lich auch wieder)
+Eine Textdatei mit Anleitung wie man Tower-Attack Szenarien erstellt
+Am Anfang 1 Minute und 10 Sekunden Vorbereitungszeit
+Es lässt sich am Anfang die ungefähre Spieldauer festlegen
+mehrere durch die Engine entstandene Bugs gefixt
+
+1.4:
+Lässt sich nun auch als Einzelspielerspiel starten
+Feuerfalle wieder baubar (Feuer ist ja jetzt um einiges schwächer)
+Haufenweise Deko sowie Ecken hinzugefügt
+Das Spielprinzip und die KI ausgelagert
+Teamsymbole
+Ein zusätzliches Szenario: Schlachtfeld
+Kann nun auch mit nur einem Spieler gestartet werden
+
+1.3:
+Man kann nun auch wieder im Multiplayer-Modus gewinnen
+Neues Gebäude: Magieturm Lvl. 1-2
+Die Truppen werden mit der Zeit immer stärker (dadurch werden Runden (im Normalfall) kürzer)
+Eine improvisierte Art von einer globalen HighScore (für die meisten Tode)
+Assasinen-Bug gefixt
+Helden haben am Anfang 100% Mana und Leben
+Generäle
+Priester sind etwas schwächer
+Die Spieler-KI bleibt seltener hängen
+Nun Liga tauglich
+
+1.2:
+KI-Spieler stark verbessert
+Einheiten-KI leicht verbessert
+Drache nun (wirklich) beschwörbar
+Einfachere Menüsteuerung
+Neues Gebäude: Seuchenaltar
+Overlay.png bei allen Türmen (werden nach Spielerfarbe gefärbt)
+Feuer stark abgeschwächt
+Getarnte Spieler werden nicht mehr von Türmen angegriffen
+Fledermäuse wieder rausgenommen
+Giftpfeile kaufbar
+eigener Loader
+Zauber "Untote erwecken" nicht mehr benutzbar
+Lich kann nun richtig reiten (konnten vorher nicht hoch und runter lenken)
+Paladin kann Unsichtbarkeit zaubern
+Der Hauptheld hat doppelte Lebensenergie
+Karmanachschub für Kirche
+Kein Gebäude hat ein Fundament
+Feststeckende Einheiten werden nun befreit
+Man kann mit den verbündeten KIs "kommunizieren"
+Leichte Performanceverbesserung (sowie 6 MB Arbeitspeicherentlastung und einige MB Grafikspeicherentlastung)
+
+1.1:
+KI-Spieler komplett überarbeitet
+Fledermäuse hinzugefügt
+Wachtürme schießen nun mit Giftpfeilen
+Pfeile von Türmen nicht einsammelbar
+Neue Grafik für den Lich
+Leichen werden weitaus schneller ausgefadet

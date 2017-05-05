@@ -1,0 +1,17 @@
+[Action]
+Name=Warp
+Facet=0,0,40,40
+Length=16
+Delay=6
+Directions=2
+FlipDir=1
+NextAction=Warp
+
+[Action]
+Name=ToWarp
+Facet=0,0,40,40
+Length=16
+Delay=3
+Directions=2
+FlipDir=1
+NextAction=Warp

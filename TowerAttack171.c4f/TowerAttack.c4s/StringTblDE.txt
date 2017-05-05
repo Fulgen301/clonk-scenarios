@@ -1,0 +1,2 @@
+TeamLeft=<c ff0000>Blutdürster</c>
+TeamRight=<c 999999>Knochenbrecher</c>

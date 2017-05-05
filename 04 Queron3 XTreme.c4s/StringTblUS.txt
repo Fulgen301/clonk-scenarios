@@ -1,0 +1,15 @@
+MsgTimeToRelaunch=%d clonk seconds left until spawn!
+MsgGo=Begin fighting!
+MsgPlusKill=+1 kill
+MsgKill=%s killed %s.
+MsgKill2=%s is to blame for %s's death.
+MsgKill3=%s scores on %s.
+MsgTeamkill=%s killed his teammate %s.
+MsgTeamkill2=Lack of teamplay caused %s to kill %s.
+MsgTeamkill3=%s doesn't like his teammate %s very much.
+MsgSuicide=%s commits suicide.
+MsgSuicide2=%s failed.
+MsgSuicide3=%s hates life.
+MsgDeath=%s died under mysterious circumstances.
+MsgDeath2=%s had an heart attack.
+MsgDeath3=%s believed in reincarnation.
