@@ -1,0 +1,15 @@
+[Teams]
+LastTeamID=2
+TeamColors=true
+
+  [Team]
+  id=1
+  Name=Hafenbewohner
+  PlrStartIndex=1
+  Color=16711680
+
+  [Team]
+  id=2
+  Name=Piraten
+  PlrStartIndex=2
+  Color=255

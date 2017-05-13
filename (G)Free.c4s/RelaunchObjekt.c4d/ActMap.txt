@@ -1,0 +1,17 @@
+[Action]
+Name=Start
+Procedure=NONE
+Length=1
+Delay=5
+NextAction=Start
+PhaseCall=JoinPlr
+FacetBase=1
+
+[Action]
+Name=Relaunch
+Delay=30
+Length=4
+FacetBase=1
+Procedure=NONE
+PhaseCall=RelaunchEffect
+EndCall=RelaunchPlr

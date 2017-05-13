@@ -1,0 +1,13 @@
+[DefCore]
+id=RELA
+Name=RelaunchObjekt
+Category=1
+MaxUserSelect=10
+Width=12
+Height=12
+Offset=-6,-6
+Vertices=1
+VertexY=1
+VertexFriction=20
+Picture=0,0,64,64
+ 

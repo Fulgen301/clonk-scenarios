@@ -1,0 +1,13 @@
+[DefCore]
+id=MAPT
+Name=Appendto
+Category=2056
+Width=1
+Height=1
+Value=0
+Mass=0
+Components=MAPT=1;
+Picture=96,480,32,40
+Vertices=1
+VertexFriction=0
+CollectionLimit=0

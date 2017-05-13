@@ -1,0 +1,2 @@
+MsgPlayerJoint=Player %s joint the game.
+MsgNoJoin=You cannot join now. The host is selecting the relaunchs.

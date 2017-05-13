@@ -1,0 +1,14 @@
+[Teams]
+TeamColors=1
+
+	[Team]
+	id=1
+	Name=$Team1$
+	Color=15060255
+	
+
+	[Team]
+	id=2
+	Name=$Team2$
+	Color=2555060
+	

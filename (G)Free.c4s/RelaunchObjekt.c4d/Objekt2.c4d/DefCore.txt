@@ -1,0 +1,17 @@
+[DefCore]
+id=BUM2
+Name=Bumm
+Category=16
+Value=0
+Mass=1
+Components=BUMM=1;
+Width=10
+Height=10
+Offset=0,0
+Picture=0,0,3,6
+Vertices=3
+VertexCNAT=8
+ContactCalls=1
+TimerCall=Effekt
+Timer=1
+Float=1

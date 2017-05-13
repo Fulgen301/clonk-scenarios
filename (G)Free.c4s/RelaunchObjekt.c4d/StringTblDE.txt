@@ -1,0 +1,2 @@
+MsgPlayerJoint=Spieler %s ist dem Spiel beigetreten.
+MsgNoJoin=Ihr könnt noch nicht beitreten. Der Host stellt die Optionen ein.
